@@ -1,0 +1,1 @@
+le stagiaires choist est {{$id}}

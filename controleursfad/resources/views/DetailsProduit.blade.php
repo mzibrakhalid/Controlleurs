@@ -1,0 +1,1 @@
+Le produit choisit est {{$Produit}}
